@@ -41,16 +41,15 @@ To run the script:
 
 Ensure you have Matlab's Image Processing Toolbox installed as it is required for some functions used in this script.
 
-## Example Output
+## Example
 
 The script displays multiple subplots showing each stage of the segmentation process:
 
-- Original Image
-- Gradient magnitude
-- Watershed transform result
-- Morphological operations results
-- Detected regional maxima
-- Final segmented image with tumor regions highlighted
+### Input:- 
+![I](https://github.com/user-attachments/assets/2601741e-e130-43bd-8243-de90c08fea9b)
+
+### Output:-
+![OUTPUT](https://github.com/user-attachments/assets/0dbefbea-7d2f-4bd9-893f-41565f465e78)
 
 ## Contributors
 
